@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[This Blog is Making Me Thirsty]]></title>
+  <link href="http://Iawhite76.github.io/atom.xml" rel="self"/>
+  <link href="http://Iawhite76.github.io/"/>
+  <updated>2014-02-24T15:42:06-06:00</updated>
+  <id>http://Iawhite76.github.io/</id>
+  <author>
+    <name><![CDATA[Ian White]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Weak and Nerdy Are Admired for Their Computer-programming Abilities.]]></title>
+    <link href="http://Iawhite76.github.io/blog/2014/02/24/the-weak-and-nerdy-are-admired-for-their-computer-programming-abilities/"/>
+    <updated>2014-02-24T14:14:55-06:00</updated>
+    <id>http://Iawhite76.github.io/blog/2014/02/24/the-weak-and-nerdy-are-admired-for-their-computer-programming-abilities</id>
+    <content type="html"><![CDATA[<p>My first blog post! I finally have taken the time to set up a blog.  &ldquo;But it&rsquo;s so easy?&rdquo;, says anyone reading this who already has one.  Well, yes, I find that it is&hellip;but only thanks to what I have been learning at Maker Square here in Austin, TX.  For anyone not familiar with this program, check it out at <a href="http://www.themakersquare.com/.">http://www.themakersquare.com/.</a>  I am loving the course so far and have learned a lot.
+I&rsquo;ll bore you in a later post with why I made the decision to change careers paths and take on the daunting task of attempting to become a programmer, but for now I just wanted to get this up and running!
+I am taking today off after working all weekend on our first hackathon project: building a web app (in my case, a very, very simple, non-functional web app!! check out out here: <a href="http://mks-store-my-stuff.herokuapp.com/form?name=Ian+White&amp;user_name=Iawhite76&amp;phone=201+471+1000&amp;email=ianwhite%40utexas.edu&amp;zip=78744">http://mks-store-my-stuff.herokuapp.com/form?name=Ian+White&amp;user_name=Iawhite76&amp;phone=201+471+1000&amp;email=ianwhite%40utexas.edu&amp;zip=78744</a>).  I did NOT build what you see on my own.  Thank god I had the exceptional talent of my two other teammates Zalary and Todd to get this project done.  Although the app isn&rsquo;t entirely what we had hope to accomplish, it is still an amazing acheivement given that we&rsquo;ve only been at Maker Square 3 weeks!  Many thanks to them for putting up and motivating me.  Despite all my frustrated bitching, I enjoyed working on this project and feel I learned just a little bit (although I definitely needed more preparation).
+Thanks for reading.  Until next time.</p>
+
+<p>-Ian</p>
+]]></content>
+  </entry>
+  
+</feed>
